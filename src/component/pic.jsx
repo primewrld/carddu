@@ -1,5 +1,5 @@
 import React from "react";
-import images from "./path/to/your/images/cats-removebg-preview.png"
+import images from "/cats-removebg-preview.png"
 import "../App.css"
 const CatPic = () => {
     return (
