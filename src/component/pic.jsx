@@ -1,10 +1,10 @@
 import React from "react";
-import images from "/cats-removebg-preview.png"
+import Images from "../assets/cats-removebg-preview.png";
 import "../App.css"
 const CatPic = () => {
     return (
         <div className="cat">
-            <img src={images} alt="cat" />
+            <img src={Images} alt="cat" />
             <div className="dott"> 
         
         <box-icon type="solid" name="square" color="grey"></box-icon>
