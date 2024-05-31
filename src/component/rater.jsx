@@ -1,6 +1,6 @@
 import React from "react";
 import "../App.css";
-import CatPic from "./pic";
+
 const Rater = () => {
   return (
     <div className="rater">
