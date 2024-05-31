@@ -1,0 +1,88 @@
+body{
+    background-color: darkgray;
+}
+h1, #pq{
+    color: azure;  
+    margin: auto;
+    text-align: center; 
+}
+ #pq{
+    margin: auto;
+    text-align: center; 
+    color: #3d3636;
+    font-size: 17px;
+ }
+
+.rater{
+    background-color: rgba(245, 245, 245, 0.623);
+    max-width: 360px;
+    padding: 20px 40px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    display: block;
+
+}
+.love{
+    border: 2px ridge grey;
+    width: 24px;
+    padding-top: 3px;   
+}
+strong{
+    font-size: 30px;
+    font-weight: 600;
+}
+p{
+    font-size: 20px;
+    text-transform: capitalize;
+}
+button{
+    background-color: dimgrey;
+    color: white;
+    width: 50%;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+}
+h4{
+    text-transform: capitalize;
+    font-size: 30px;
+}
+.order{
+    display: flex;
+    gap:5px;
+    margin-top: 20px;
+}
+.color{
+    display: flex;
+    margin-top: 30px;
+}
+.Size{
+    display: flex;
+    gap: 22px;
+    margin-top: 25px;
+}
+.cat{
+    background-color: white;
+    max-width: 360px ;
+    padding: 40px 60px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 400px;
+}
+.color p{
+margin-top: 2px;
+padding-right: 10px;
+}
+.Size p{
+    margin-top: -5px;
+}
+.mypage{
+    display: flex;
+    border: 8px double orange;
+    max-width: 800px;
+    margin: auto;
+    padding-top: -50px;
+}
+.dott{
+    margin-top: 80px;
+}
